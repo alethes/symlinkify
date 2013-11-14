@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "jsonfile": "jprichardson/node-jsonfile",
+        "libyaml": "stephank/yaml.node"
+    }
+}

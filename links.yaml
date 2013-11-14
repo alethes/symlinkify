@@ -1,0 +1,4 @@
+/vagrant:
+    /apps:
+        app13:      4p-data
+        app9:       pages-multiple-collections
