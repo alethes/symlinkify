@@ -7,7 +7,7 @@ fs   = require "fs"
 
 dir  = path.dirname fs.realpathSync __filename
 
-conffile = if process.argv[2]? then process.argv[1] else path.join dir, "../links.yaml"
+conffile = if process.argv[2]? then process.argv[2] else path.join dir, "../links.yaml"
 
 
 LINKS = yaml.readFileSync conffile

@@ -12,12 +12,13 @@ fs = require("fs");
 
 dir = path.dirname(fs.realpathSync(__filename));
 
-conffile = process.argv[2] != null ? process.argv[1] : path.join(dir, "../links.yaml");
+conffile = process.argv[2] != null ? process.argv[2] : path.join(dir, "../links.yaml");
+
+console.log("\nLoading link data from " + conffile);
 
 LINKS = yaml.readFileSync(conffile);
 
 if ((LINKS.length != null) && LINKS.length) {
-  console.log("\nLoaded link data from " + conffile);
   console.log("Creating links:\n");
   _ref = LINKS[0];
   for (srcdir in _ref) {
