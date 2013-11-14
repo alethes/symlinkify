@@ -13,24 +13,24 @@
 10 silly lockFile 3a52ce78- .
 11 verbose lock . C:\Users\James\AppData\Roaming\npm-cache\3a52ce78-.lock
 12 verbose read json package.json
-13 verbose tar pack [ 'C:\\Users\\James\\AppData\\Local\\Temp\\npm-7868\\1384418826869-0.3869635497685522\\tmp.tgz',
+13 verbose tar pack [ 'C:\\Users\\James\\AppData\\Local\\Temp\\npm-9756\\1384419565631-0.9972083230968565\\tmp.tgz',
 13 verbose tar pack   '.' ]
-14 verbose tarball C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\tmp.tgz
+14 verbose tarball C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\tmp.tgz
 15 verbose folder .
-16 info prepublish symlinker@0.1.0
+16 info prepublish symlinkify@0.1.0
 17 silly lockFile 3a52ce78- .
 18 verbose lock . C:\Users\James\AppData\Roaming\npm-cache\3a52ce78-.lock
-19 silly lockFile 5fb9b6dc-26869-0-3869635497685522-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\tmp.tgz
-20 verbose lock C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\tmp.tgz C:\Users\James\AppData\Roaming\npm-cache\5fb9b6dc-26869-0-3869635497685522-tmp-tgz.lock
+19 silly lockFile 55d505a3-65631-0-9972083230968565-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\tmp.tgz
+20 verbose lock C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\tmp.tgz C:\Users\James\AppData\Roaming\npm-cache\55d505a3-65631-0-9972083230968565-tmp-tgz.lock
 21 silly lockFile 3a52ce78- .
 22 silly lockFile 3a52ce78- .
-23 silly lockFile 5fb9b6dc-26869-0-3869635497685522-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\tmp.tgz
-24 silly lockFile 5fb9b6dc-26869-0-3869635497685522-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\tmp.tgz
-25 verbose tar unpack C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\tmp.tgz
-26 silly lockFile 3b903953-26869-0-3869635497685522-package C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package
-27 verbose lock C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package C:\Users\James\AppData\Roaming\npm-cache\3b903953-26869-0-3869635497685522-package.lock
-28 silly lockFile 5fb9b6dc-26869-0-3869635497685522-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\tmp.tgz
-29 verbose lock C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\tmp.tgz C:\Users\James\AppData\Roaming\npm-cache\5fb9b6dc-26869-0-3869635497685522-tmp-tgz.lock
+23 silly lockFile 55d505a3-65631-0-9972083230968565-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\tmp.tgz
+24 silly lockFile 55d505a3-65631-0-9972083230968565-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\tmp.tgz
+25 verbose tar unpack C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\tmp.tgz
+26 silly lockFile b6c2c57f-65631-0-9972083230968565-package C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package
+27 verbose lock C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package C:\Users\James\AppData\Roaming\npm-cache\b6c2c57f-65631-0-9972083230968565-package.lock
+28 silly lockFile 55d505a3-65631-0-9972083230968565-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\tmp.tgz
+29 verbose lock C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\tmp.tgz C:\Users\James\AppData\Roaming\npm-cache\55d505a3-65631-0-9972083230968565-tmp-tgz.lock
 30 silly gunzTarPerm modes [ '755', '644' ]
 31 silly gunzTarPerm extractEntry package.json
 32 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
@@ -38,41 +38,41 @@
 34 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
 35 silly gunzTarPerm extractEntry README.md
 36 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
-37 silly gunzTarPerm extractEntry bin/symlinker
-38 silly gunzTarPerm modified mode [ 'bin/symlinker', 438, 420 ]
+37 silly gunzTarPerm extractEntry bin/symlinkify
+38 silly gunzTarPerm modified mode [ 'bin/symlinkify', 438, 420 ]
 39 silly gunzTarPerm extractEntry links.yaml
 40 silly gunzTarPerm modified mode [ 'links.yaml', 438, 420 ]
-41 silly gunzTarPerm extractEntry src/symlinker.coffee
-42 silly gunzTarPerm modified mode [ 'src/symlinker.coffee', 438, 420 ]
+41 silly gunzTarPerm extractEntry src/symlinkify.coffee
+42 silly gunzTarPerm modified mode [ 'src/symlinkify.coffee', 438, 420 ]
 43 silly gunzTarPerm extractEntry symlinker
 44 silly gunzTarPerm modified mode [ 'symlinker', 438, 420 ]
-45 verbose read json C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package\package.json
-46 silly lockFile 3b903953-26869-0-3869635497685522-package C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package
-47 silly lockFile 3b903953-26869-0-3869635497685522-package C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package
-48 silly lockFile 5fb9b6dc-26869-0-3869635497685522-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\tmp.tgz
-49 silly lockFile 5fb9b6dc-26869-0-3869635497685522-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\tmp.tgz
-50 verbose from cache C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package\package.json
-51 verbose tar pack [ 'C:\\Users\\James\\AppData\\Roaming\\npm-cache\\symlinker\\0.1.0\\package.tgz',
-51 verbose tar pack   'C:\\Users\\James\\AppData\\Local\\Temp\\npm-7868\\1384418826869-0.3869635497685522\\package' ]
-52 verbose tarball C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz
-53 verbose folder C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package
-54 silly lockFile 3b903953-26869-0-3869635497685522-package C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package
-55 verbose lock C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package C:\Users\James\AppData\Roaming\npm-cache\3b903953-26869-0-3869635497685522-package.lock
-56 silly lockFile 8e8311b2-ache-symlinker-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz
-57 verbose lock C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz C:\Users\James\AppData\Roaming\npm-cache\8e8311b2-ache-symlinker-0-1-0-package-tgz.lock
-58 silly lockFile 3b903953-26869-0-3869635497685522-package C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package
-59 silly lockFile 3b903953-26869-0-3869635497685522-package C:\Users\James\AppData\Local\Temp\npm-7868\1384418826869-0.3869635497685522\package
-60 silly lockFile 8e8311b2-ache-symlinker-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz
-61 silly lockFile 8e8311b2-ache-symlinker-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz
-62 silly lockFile a0e6cb9b-pm-cache-symlinker-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package
-63 verbose lock C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package C:\Users\James\AppData\Roaming\npm-cache\a0e6cb9b-pm-cache-symlinker-0-1-0-package.lock
-64 silly lockFile a0e6cb9b-pm-cache-symlinker-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package
-65 silly lockFile a0e6cb9b-pm-cache-symlinker-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package
-66 verbose tar unpack C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz
-67 silly lockFile a0e6cb9b-pm-cache-symlinker-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package
-68 verbose lock C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package C:\Users\James\AppData\Roaming\npm-cache\a0e6cb9b-pm-cache-symlinker-0-1-0-package.lock
-69 silly lockFile 8e8311b2-ache-symlinker-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz
-70 verbose lock C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz C:\Users\James\AppData\Roaming\npm-cache\8e8311b2-ache-symlinker-0-1-0-package-tgz.lock
+45 verbose read json C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package\package.json
+46 silly lockFile b6c2c57f-65631-0-9972083230968565-package C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package
+47 silly lockFile b6c2c57f-65631-0-9972083230968565-package C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package
+48 silly lockFile 55d505a3-65631-0-9972083230968565-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\tmp.tgz
+49 silly lockFile 55d505a3-65631-0-9972083230968565-tmp-tgz C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\tmp.tgz
+50 verbose from cache C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package\package.json
+51 verbose tar pack [ 'C:\\Users\\James\\AppData\\Roaming\\npm-cache\\symlinkify\\0.1.0\\package.tgz',
+51 verbose tar pack   'C:\\Users\\James\\AppData\\Local\\Temp\\npm-9756\\1384419565631-0.9972083230968565\\package' ]
+52 verbose tarball C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz
+53 verbose folder C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package
+54 silly lockFile b6c2c57f-65631-0-9972083230968565-package C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package
+55 verbose lock C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package C:\Users\James\AppData\Roaming\npm-cache\b6c2c57f-65631-0-9972083230968565-package.lock
+56 silly lockFile bbc23368-che-symlinkify-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz
+57 verbose lock C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz C:\Users\James\AppData\Roaming\npm-cache\bbc23368-che-symlinkify-0-1-0-package-tgz.lock
+58 silly lockFile b6c2c57f-65631-0-9972083230968565-package C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package
+59 silly lockFile b6c2c57f-65631-0-9972083230968565-package C:\Users\James\AppData\Local\Temp\npm-9756\1384419565631-0.9972083230968565\package
+60 silly lockFile bbc23368-che-symlinkify-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz
+61 silly lockFile bbc23368-che-symlinkify-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz
+62 silly lockFile f96796f0-m-cache-symlinkify-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package
+63 verbose lock C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package C:\Users\James\AppData\Roaming\npm-cache\f96796f0-m-cache-symlinkify-0-1-0-package.lock
+64 silly lockFile f96796f0-m-cache-symlinkify-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package
+65 silly lockFile f96796f0-m-cache-symlinkify-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package
+66 verbose tar unpack C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz
+67 silly lockFile f96796f0-m-cache-symlinkify-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package
+68 verbose lock C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package C:\Users\James\AppData\Roaming\npm-cache\f96796f0-m-cache-symlinkify-0-1-0-package.lock
+69 silly lockFile bbc23368-che-symlinkify-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz
+70 verbose lock C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz C:\Users\James\AppData\Roaming\npm-cache\bbc23368-che-symlinkify-0-1-0-package-tgz.lock
 71 silly gunzTarPerm modes [ '755', '644' ]
 72 silly gunzTarPerm extractEntry package.json
 73 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
@@ -80,83 +80,62 @@
 75 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
 76 silly gunzTarPerm extractEntry README.md
 77 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
-78 silly gunzTarPerm extractEntry bin/symlinker
-79 silly gunzTarPerm modified mode [ 'bin/symlinker', 438, 420 ]
+78 silly gunzTarPerm extractEntry bin/symlinkify
+79 silly gunzTarPerm modified mode [ 'bin/symlinkify', 438, 420 ]
 80 silly gunzTarPerm extractEntry links.yaml
 81 silly gunzTarPerm modified mode [ 'links.yaml', 438, 420 ]
-82 silly gunzTarPerm extractEntry src/symlinker.coffee
-83 silly gunzTarPerm modified mode [ 'src/symlinker.coffee', 438, 420 ]
+82 silly gunzTarPerm extractEntry src/symlinkify.coffee
+83 silly gunzTarPerm modified mode [ 'src/symlinkify.coffee', 438, 420 ]
 84 silly gunzTarPerm extractEntry symlinker
 85 silly gunzTarPerm modified mode [ 'symlinker', 438, 420 ]
-86 verbose read json C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package\package.json
-87 silly lockFile a0e6cb9b-pm-cache-symlinker-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package
-88 silly lockFile a0e6cb9b-pm-cache-symlinker-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package
-89 silly lockFile 8e8311b2-ache-symlinker-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz
-90 silly lockFile 8e8311b2-ache-symlinker-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz
-91 silly shasum updated bytes 1187
-92 info shasum 77901c29f4e865497439ed74231a2a88772235e3
-92 info shasum C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz
-93 verbose from cache C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package\package.json
-94 verbose chmod C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz 644
-95 silly chown skipping for windows C:\Users\James\AppData\Roaming\npm-cache\symlinker\0.1.0\package.tgz
+86 verbose read json C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package\package.json
+87 silly lockFile f96796f0-m-cache-symlinkify-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package
+88 silly lockFile f96796f0-m-cache-symlinkify-0-1-0-package C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package
+89 silly lockFile bbc23368-che-symlinkify-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz
+90 silly lockFile bbc23368-che-symlinkify-0-1-0-package-tgz C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz
+91 silly shasum updated bytes 1357
+92 info shasum 89976582bbc7ddf47a53fd5728d9dd07ca866832
+92 info shasum C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz
+93 verbose from cache C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package\package.json
+94 verbose chmod C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz 644
+95 silly chown skipping for windows C:\Users\James\AppData\Roaming\npm-cache\symlinkify\0.1.0\package.tgz
 96 silly lockFile 3a52ce78- .
-97 silly publish { name: 'symlinker',
+97 silly publish { name: 'symlinkify',
 97 silly publish   version: '0.1.0',
 97 silly publish   author: { name: 'Alethes' },
+97 silly publish   bin: { symlinkify: './bin/symlinkify' },
 97 silly publish   dependencies: { libyaml: 'stephank/yaml.node' },
-97 silly publish   readme: 'Symlinker\r\n=========\r\n\r\nA simple Linux Symlink Manager built in node.js.\r\n\r\nInstallation\r\n============\r\n\r\n```\r\nnpm install -g symlinker\r\n```',
+97 silly publish   repository: { type: 'git', url: 'http://github.com/alethes/symlinkify.git' },
+97 silly publish   readme: 'Symlinkify\r\n==========\r\n\r\nA simple Linux Symlink Manager built in node.js.\r\n\r\nInstallation\r\n============\r\n\r\n```\r\nnpm install -g symlinkify\r\n```\r\n\r\nThen, run: `symlinkify link_file.yaml` to create symlinks. Sample configuration file:\r\n\r\n```\r\n/source_dir:\r\n    /link_dir:\r\n        linked_file:        link_name\r\n        linked_file2:       link2_name\r\n    /link_dir2:\r\n        linked_file:        link_name\r\n        linked_file2:       link2_name\r\n/source_dir2:\r\n    /link_dir:\r\n        linked_file:        link_name\r\n        linked_file2:       link2_name\r\n    /link_dir2:\r\n        linked_file:        link_name\r\n        linked_file2:       link2_name\r\n```\r\n\r\n`symlinkify` without arguments will attempt to use `links.yaml` from the package\'s root directory.',
 97 silly publish   readmeFilename: 'README.md',
-97 silly publish   _id: 'symlinker@0.1.0',
-97 silly publish   description: 'Symlinker\r =========',
-97 silly publish   dist: { shasum: '77901c29f4e865497439ed74231a2a88772235e3' },
+97 silly publish   _id: 'symlinkify@0.1.0',
+97 silly publish   description: 'Symlinkify\r ==========',
+97 silly publish   dist: { shasum: '89976582bbc7ddf47a53fd5728d9dd07ca866832' },
 97 silly publish   _from: '.' }
-98 verbose url raw symlinker
-99 verbose url resolving [ 'https://registry.npmjs.org/', './symlinker' ]
-100 verbose url resolved https://registry.npmjs.org/symlinker
-101 info trying registry request attempt 1 at 09:47:20
-102 http PUT https://registry.npmjs.org/symlinker
-103 http 409 https://registry.npmjs.org/symlinker
-104 verbose url raw symlinker
-105 verbose url resolving [ 'https://registry.npmjs.org/', './symlinker' ]
-106 verbose url resolved https://registry.npmjs.org/symlinker
-107 info trying registry request attempt 1 at 09:47:22
-108 http GET https://registry.npmjs.org/symlinker
-109 http 200 https://registry.npmjs.org/symlinker
-110 verbose url raw symlinker/0.1.0/-tag/latest
-111 verbose url resolving [ 'https://registry.npmjs.org/',
-111 verbose url resolving   './symlinker/0.1.0/-tag/latest' ]
-112 verbose url resolved https://registry.npmjs.org/symlinker/0.1.0/-tag/latest
-113 info trying registry request attempt 1 at 09:47:23
-114 http PUT https://registry.npmjs.org/symlinker/0.1.0/-tag/latest
-115 http 403 https://registry.npmjs.org/symlinker/0.1.0/-tag/latest
-116 info trying registry request attempt 1 at 09:47:25
-117 http PUT https://registry.npmjs.org/symlinker/0.1.0/-tag/latest
-118 http 403 https://registry.npmjs.org/symlinker/0.1.0/-tag/latest
-119 error publish Error sending version data
-120 error Error: forbidden user: alethes not authorized to modify symlinker
-120 error Changed: description "Node command line application to symlink a list of folders." -> "Symlinker\r ========="
-120 error Changed: dist-tags.latest "0.0.1" -> "0.1.0"
-120 error Added: versions.0.1.0
-120 error Changed: time.modified "2013-11-02T05:01:19.185Z" -> "2013-11-14T08:47:28.069Z"
-120 error Added: time.0.1.0
-120 error Changed: author.name "Florian Wendelborn" -> "Alethes": symlinker/0.1.0/-tag/latest
-120 error     at RegClient.<anonymous> (C:\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:268:14)
-120 error     at Request.init.self.callback (C:\nodejs\node_modules\npm\node_modules\request\main.js:120:22)
-120 error     at Request.EventEmitter.emit (events.js:99:17)
-120 error     at Request.<anonymous> (C:\nodejs\node_modules\npm\node_modules\request\main.js:648:16)
-120 error     at Request.EventEmitter.emit (events.js:126:20)
-120 error     at IncomingMessage.Request.start.self.req.self.httpModule.request.buffer (C:\nodejs\node_modules\npm\node_modules\request\main.js:610:14)
-120 error     at IncomingMessage.EventEmitter.emit (events.js:126:20)
-120 error     at IncomingMessage._emitEnd (http.js:366:10)
-120 error     at HTTPParser.parserOnMessageComplete [as onMessageComplete] (http.js:149:23)
-120 error     at CleartextStream.socketOnData [as ondata] (http.js:1485:20)
-121 error If you need help, you may report this log at:
-121 error     <http://github.com/isaacs/npm/issues>
-121 error or email it to:
-121 error     <npm-@googlegroups.com>
-122 error System Windows_NT 6.2.9200
-123 error command "C:\\nodejs\\\\node.exe" "C:\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "publish"
-124 error cwd C:\vagrant2\meteor\linker
-125 error node -v v0.8.21
-126 error npm -v 1.2.11
-127 verbose exit [ 1, true ]
+98 verbose url raw symlinkify
+99 verbose url resolving [ 'https://registry.npmjs.org/', './symlinkify' ]
+100 verbose url resolved https://registry.npmjs.org/symlinkify
+101 info trying registry request attempt 1 at 09:59:37
+102 http PUT https://registry.npmjs.org/symlinkify
+103 http 409 https://registry.npmjs.org/symlinkify
+104 verbose url raw symlinkify
+105 verbose url resolving [ 'https://registry.npmjs.org/', './symlinkify' ]
+106 verbose url resolved https://registry.npmjs.org/symlinkify
+107 info trying registry request attempt 1 at 09:59:39
+108 http GET https://registry.npmjs.org/symlinkify
+109 http 200 https://registry.npmjs.org/symlinkify
+110 error publish fail Cannot publish over existing version.
+110 error publish fail Update the 'version' field in package.json and try again.
+110 error publish fail
+110 error publish fail If the previous version was published in error, see:
+110 error publish fail     npm help unpublish
+110 error publish fail
+110 error publish fail To automatically increment version numbers, see:
+110 error publish fail     npm help version
+111 error System Windows_NT 6.2.9200
+112 error command "C:\\nodejs\\\\node.exe" "C:\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "publish"
+113 error cwd C:\vagrant2\meteor\linker
+114 error node -v v0.8.21
+115 error npm -v 1.2.11
+116 error code EPUBLISHCONFLICT
+117 verbose exit [ 1, true ]

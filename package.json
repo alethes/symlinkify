@@ -1,8 +1,13 @@
 {
     "name": "symlinkify",
-    "version": "0.1.0",
-    "author": "Alethes <pleasesenditthere@gmail.com",   
+    "version": "0.1.1",
+    "author": "Alethes <pleasesenditthere@gmail.com", 
+    "bin": "./bin/symlinkify",  
     "dependencies": {
         "libyaml": "stephank/yaml.node"
+    },
+    "repository": {
+        "type" : "git",
+        "url" : "http://github.com/alethes/symlinkify.git"
     }
 }
