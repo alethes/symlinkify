@@ -1,4 +1,14 @@
-/vagrant:
-    /apps:
-        app13:      4p-data
-        app9:       pages-multiple-collections
+/source_dir:
+    /link_dir:
+        linked_file:        link_name
+        linked_file2:       link2_name
+    /link_dir2:
+        linked_file:        link_name
+        linked_file2:       link2_name
+/source_dir2:
+    /link_dir:
+        linked_file:        link_name
+        linked_file2:       link2_name
+    /link_dir2:
+        linked_file:        link_name
+        linked_file2:       link2_name

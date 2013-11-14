@@ -1,0 +1,39 @@
+#!/usr/bin/env node
+
+var LINKS, conffile, dir, exec, fs, l, link, linkdir, linkdirs, links, path, s, sp, src, srcdir, yaml, _ref;
+
+yaml = require("libyaml");
+
+exec = require("child_process").exec;
+
+path = require("path");
+
+fs = require("fs");
+
+dir = path.dirname(fs.realpathSync(__filename));
+
+conffile = process.argv[2] != null ? process.argv[1] : path.join(dir, "../links.yaml");
+
+LINKS = yaml.readFileSync(conffile);
+
+if ((LINKS.length != null) && LINKS.length) {
+  console.log("\nLoaded link data from " + conffile);
+  console.log("Creating links:\n");
+  _ref = LINKS[0];
+  for (srcdir in _ref) {
+    linkdirs = _ref[srcdir];
+    for (linkdir in linkdirs) {
+      links = linkdirs[linkdir];
+      for (src in links) {
+        link = links[src];
+        l = "" + linkdir + "/" + link;
+        s = "" + srcdir + "/" + src;
+        sp = Array(40 - l.length).join(" ");
+        console.log("" + l + sp + "--> " + s);
+        exec("ln -s " + s + " " + l);
+      }
+    }
+  }
+  console.log("");
+}
+

@@ -1,6 +1,8 @@
 {
+    "name": "symlinkify",
+    "version": "0.1.0",
+    "author": "Alethes <pleasesenditthere@gmail.com",   
     "dependencies": {
-        "jsonfile": "jprichardson/node-jsonfile",
         "libyaml": "stephank/yaml.node"
     }
 }

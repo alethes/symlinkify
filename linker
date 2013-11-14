@@ -1,6 +1,0 @@
-DIR=$(readlink -fn $0)
-DIR=${DIR%/*}
-OLDDIR=`pwd`
-cd $DIR
-coffee linker.coffee $DIR
-cd $OLDDIR
