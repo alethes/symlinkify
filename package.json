@@ -1,6 +1,6 @@
 {
     "name": "symlinkify",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "Alethes <pleasesenditthere@gmail.com", 
     "bin": "./bin/symlinkify",  
     "dependencies": {

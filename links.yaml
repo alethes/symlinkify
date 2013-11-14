@@ -6,9 +6,9 @@
         linked_file:        link_name
         linked_file2:       link2_name
 /source_dir2:
-    /link_dir:
+    /link_dir3:
         linked_file:        link_name
         linked_file2:       link2_name
-    /link_dir2:
+    /link_dir4:
         linked_file:        link_name
         linked_file2:       link2_name
