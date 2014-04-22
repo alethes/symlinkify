@@ -1,10 +1,10 @@
 Symlinkify
-==========
+----------
 
 A simple Linux Symlink Manager built in node.js.
 
 Installation
-============
+------------
 
 ```
 npm install -g symlinkify
