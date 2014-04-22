@@ -1,7 +1,7 @@
 Symlinkify
 ----------
 
-A simple Linux Symlink Manager built in node.js.
+A simple Unix Symlink Manager built in node.js.
 
 Installation
 ------------
@@ -29,4 +29,4 @@ Then, run: `symlinkify link_file.yaml` to create symlinks. Sample configuration 
         linked_file2:       link2_name
 ```
 
-`symlinkify` without arguments will attempt to use `links.yaml` from the package's root directory.
+`symlinkify` called without arguments will attempt to use `links.yaml` from the package's root directory.
