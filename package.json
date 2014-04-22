@@ -1,8 +1,8 @@
 {
     "name": "symlinkify",
     "description": "A simple Unix symlink manager built in node.js.",
-    "version": "0.1.3",
-    "author": "Alethes <alethesdev@icloud.com", 
+    "version": "0.1.4",
+    "author": "Alethes <alethesdev@icloud.com>", 
     "bin": "./bin/symlinkify",  
     "dependencies": {
         "libyaml": "stephank/yaml.node"
