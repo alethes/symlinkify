@@ -1,5 +1,6 @@
 {
     "name": "symlinkify",
+    "description": "A simple Unix symlink manager built in node.js.
     "version": "0.1.2",
     "author": "Alethes <pleasesenditthere@gmail.com", 
     "bin": "./bin/symlinkify",  
